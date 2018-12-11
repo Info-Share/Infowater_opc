@@ -1,0 +1,26 @@
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\bin\Debug\LSE_ClientCS.exe
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\bin\Debug\LSE_ClientCS.pdb
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.Form1.resources
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.Properties.Resources.resources
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csproj.GenerateResource.cache
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csproj.CoreCompileInputs.cache
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.exe
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.pdb
+C:\Users\lee jin wook\Desktop\수질\LSE_OPC_Server\LSE_Sample\LSE_Client_Samples\LSE_Client (C# CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csprojAssemblyReference.cache
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\LSE_ClientCS.exe
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\LSE_ClientCS.pdb
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.Form1.resources
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.Properties.Resources.resources
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csproj.GenerateResource.cache
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csproj.CoreCompileInputs.cache
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.exe
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.pdb
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\LSE_ClientCS.exe.config
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\EntityFramework.dll
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\MySql.Data.dll
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\EntityFramework.xml
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\bin\Debug\ko\EntityFramework.resources.dll
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csproj.CopyComplete
+C:\Users\C\Desktop\LSE_Client (C_ CustomInterface)\LSE_ClientCS\obj\x86\Debug\LSE_ClientCS.csprojAssemblyReference.cache
